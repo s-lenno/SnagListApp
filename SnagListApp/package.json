@@ -1,0 +1,14 @@
+{
+  "name": "SnagListApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@react-native-firebase/app": "^18.7.1",
+    "@react-native-firebase/auth": "^18.7.1",
+    "@react-native-firebase/firestore": "^18.7.1",
+    "react-native": "0.72.7"
+  }
+}
